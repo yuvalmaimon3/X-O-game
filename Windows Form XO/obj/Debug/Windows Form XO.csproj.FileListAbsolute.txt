@@ -1,0 +1,19 @@
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\bin\Debug\Windows Form XO.exe.config
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\bin\Debug\Windows Form XO.exe
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\bin\Debug\Windows Form XO.pdb
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.csprojResolveAssemblyReference.cache
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.csproj.GenerateResource.Cache
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.exe
+C:\Users\Maimon\Documents\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.pdb
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\bin\Debug\Windows Form XO.exe.config
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\bin\Debug\Windows Form XO.exe
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\bin\Debug\Windows Form XO.pdb
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.csprojAssemblyReference.cache
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.csproj.GenerateResource.cache
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.csproj.CoreCompileInputs.cache
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.exe
+G:\גיבוי\התוכונת שלי\Visual Studio 2013\Projects\Windows Form XO\Windows Form XO\obj\Debug\Windows Form XO.pdb
